@@ -21,8 +21,8 @@ To get started with this project, ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-repo/simple-blockchain-application.git
-    cd simple-blockchain-application
+    git https://github.com/suj1tha/avaxproof-inter-frontend.git
+    cd avaxproof-inter-frontend
     ```
 
 2. Install dependencies:
@@ -56,12 +56,13 @@ To get started with this project, ensure you have the following installed:
 1. Navigate to the React project directory:
 
     ```bash
-    cd simple-blockchain-frontend
+    cd todo-dapp
     ```
 
 2. Start the React application:
 
     ```bash
+    npm i
     npm start
     ```
 
