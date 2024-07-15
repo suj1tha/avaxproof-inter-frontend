@@ -2,7 +2,7 @@
 
 ## Description
 
-The Error Handling assignment demonstrates how `assert`, `require` and `revert` works.
+This assignment demonstrates the integration of the frontend to the smart contract and interact with the smart contract using the frontend application.
 
 ## Getting Started
 
