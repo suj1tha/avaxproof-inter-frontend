@@ -94,8 +94,7 @@ If you run into issues:
 For more detailed error handling, open the browser’s console (F12 or right-click and select "Inspect") to see error messages.
 
 ## Authors
-
-Your Name  
+ 
 Sujitha
 
 ## License
